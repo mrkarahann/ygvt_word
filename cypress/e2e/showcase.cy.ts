@@ -1,4 +1,8 @@
-/// <reference types="cypress" />
+// Removed unresolved reference directive
+declare const describe: any;
+declare const beforeEach: any;
+declare const it: any;
+declare const cy: any;
 
 describe('AI Writer Pro Demo Showcase', () => {
   
